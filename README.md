@@ -1,6 +1,4 @@
-# Altera Coding Challenge
-
-Create a Tetris engine
+# Tetris Game Engine
 
 ## Description
 
