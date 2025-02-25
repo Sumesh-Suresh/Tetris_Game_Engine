@@ -30,7 +30,7 @@ Each function and the respective parameters are explained under the function def
     comment out line 180 to 182 in tetris.py and see the grid in output.txt
    
 Note : 
-- The grid structure used in the code is not as same as the conventional tetris game as shown in the Challenge.pdf .
+- The grid structure used in the code is not as same as the conventional tetris game.
 - The grid used in the code is flipped (about x or horizontal axis) version of the original one.
           
     
