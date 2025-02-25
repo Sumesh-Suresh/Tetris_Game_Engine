@@ -14,13 +14,13 @@ Each function and the respective parameters are explained under the function def
 ## Instruction
 
 1. Create a conda environment (shell script):
-    conda create --name altera python=3.9
+    conda create --name tetris python=3.9
 
 2. Activate the environment (shell script):
-    conda activate altera
+    conda activate tetris
 
 3. Create an input.txt:
-    create an input.txt as shown in the examples in Challenge.pdf
+    create an input.txt with the pattern for block to be drop chronologically
 
 4. Run the tetris.py file (shell script):
     cd your-repo
